@@ -1,6 +1,6 @@
 # Schism Base
 
-Character archive untuk Schism Series. Project ini berisi halaman publik untuk membaca karakter, series, lore, dan power system dalam tampilan gelap yang padat dan sinematik.
+Character archive untuk Schism Series (draft buatan gwehj yg blm jadi-jadi). isinya page karakter, series, lore, dan power system dalam tampilan gelap yang padat dan sinematik.
 
 ## Pages
 
